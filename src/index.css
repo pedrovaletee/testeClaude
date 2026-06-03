@@ -1,0 +1,9 @@
+/*
+  A estilização agora vem toda do Bootstrap (ver index.html).
+  Este arquivo guarda só pequenos ajustes nossos, se precisarmos.
+*/
+
+/* Tira o sublinhado dos links que viram "cartões" ou botões. */
+a {
+  text-decoration: none;
+}
